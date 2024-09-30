@@ -1,0 +1,6 @@
+[submodule "my-cafe-ui"]
+	path = my-cafe-ui
+	url = git@github.com:Sruthi-Ganesh/my-cafe-ui.git
+[submodule "my-cafe-python"]
+	path = my-cafe-python
+	url = git@github.com:Sruthi-Ganesh/my-cafe-python.git
