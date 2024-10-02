@@ -12,14 +12,24 @@ Collection of two submodule repositories: React and Django for cafe application
 
 ## Setup
 
-Run docker compose to setup
+1. Git clone
+```
+git clone https://github.com/Sruthi-Ganesh/my-cafe.git
+```
+
+2. Update submodules
+```
+git submodule update --init --recursive
+```
+
+3. Run docker compose to setup
 ```
 docker compose up -d --build
 ```
 
-Go to http://localhost to view the web application
+4. Go to http://localhost to view the web application
 
-Go to http://localhost:8000/api/v1/swagger/ to see the swagger for backend
+5. Go to http://localhost:8000/api/v1/swagger/ to see the swagger for backend
 
 ## Instructions
 - Django migrations is preloaded with initial data of 20 employees and 5 cafes.
