@@ -32,7 +32,7 @@ Go to http://localhost:8000/api/v1/swagger/ to see the swagger for backend
 ![cafe-diagram](https://github.com/user-attachments/assets/7df0805a-5302-44d0-b614-7fb30d152375)
 
 ## Screenshots
-* [View Screenshots](screenshot.md)
+* [View Screenshots](screenshots.md)
 
 
 
